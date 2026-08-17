@@ -11,12 +11,9 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 40
-  - name: References
-    url: '#references'
-    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 50
 
 # Before publishing the job-market version, turn the final CV and Job Market
 # Paper materials into direct links. See README.md for stable filenames.

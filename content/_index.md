@@ -21,13 +21,8 @@ sections:
               <a href="#job-market-paper">Job Market Paper</a>
               <a href="#research">Working Papers</a>
               <a href="#teaching">Teaching</a>
-              <a href="#references">References</a>
               <a href="#contact">Contact</a>
             </nav>
-            <div class="academic-photo-placeholder" role="img" aria-label="Reserved space for a professional portrait">
-              <span aria-hidden="true">YZ</span>
-            </div>
-            <p class="academic-photo-note">Professional portrait forthcoming</p>
           </aside>
           <main class="academic-main" id="main-content">
             <section class="academic-section" id="bio">
@@ -35,7 +30,6 @@ sections:
               <p>I am a PhD candidate in Economics at University College London and a PhD Scholar at the Centre for Microdata Methods and Practice (CeMMAP). I expect to graduate in 2027.</p>
               <p>My research lies at the intersection of econometrics and statistical decision-making. I am interested in adaptive experimental design, causal inference, robust policy choice, partial identification, panel data, and social networks.</p>
               <p class="academic-material-line">
-                <span class="academic-pending" aria-disabled="true"><strong>Curriculum Vitae</strong> (PDF forthcoming)</span><br>
                 <a href="https://cemmap.ac.uk/person/yuanqi-zhang/" target="_blank" rel="noopener"><strong>CeMMAP Profile</strong></a>
               </p>
             </section>
@@ -66,16 +60,6 @@ sections:
               <h2>Teaching</h2>
               <p><strong>ECON0108 Econometrics</strong><br>PhD Course · University College London · 2024–2026</p>
               <p><strong>ECON0005 Statistical Methods in Economics</strong><br>Undergraduate Course · University College London · 2022–2024</p>
-            </section>
-            <hr>
-            <section class="academic-section" id="references">
-              <h2>References</h2>
-              <p>Names, affiliations, and contact details will be added after final confirmation.</p>
-              <ol class="academic-reference-list" aria-label="Reserved spaces for academic references">
-                <li><strong>Reference 01</strong><br><span>Name and affiliation forthcoming</span></li>
-                <li><strong>Reference 02</strong><br><span>Name and affiliation forthcoming</span></li>
-                <li><strong>Reference 03</strong><br><span>Name and affiliation forthcoming</span></li>
-              </ol>
             </section>
             <hr>
             <section class="academic-section" id="contact">
