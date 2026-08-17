@@ -1,0 +1,31 @@
+{{- if .IsHome -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Yuanqi Zhang",
+    "url": "https://yuanqizhang.com/",
+    "email": "mailto:uctpyqz@ucl.ac.uk",
+    "jobTitle": "PhD Candidate in Economics",
+    "affiliation": [
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "University College London",
+        "url": "https://www.ucl.ac.uk/economics/"
+      },
+      {
+        "@type": "Organization",
+        "name": "Centre for Microdata Methods and Practice",
+        "url": "https://cemmap.ac.uk/"
+      }
+    ],
+    "sameAs": [
+      "https://cemmap.ac.uk/person/yuanqi-zhang/"
+    ]
+  }
+}
+</script>
+{{- end -}}

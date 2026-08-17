@@ -1,50 +1,43 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+# Yuanqi Zhang — personal academic website
 
-[![Screenshot](preview.png)](https://hugoblox.com/templates/)
+This repository builds [yuanqizhang.com](https://yuanqizhang.com/) with Hugo Blox and deploys it through GitHub Pages whenever `main` changes.
 
-The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+The job-market draft uses a compact two-column academic layout inspired by [Gautam Rao's website](https://gautam-rao.com/) and the MIT-licensed [Academimal Hugo theme](https://github.com/yangl1996/academimal). The implementation remains within the existing Hugo Blox project rather than copying the reference repository's older build system.
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
+## Before publishing the job-market version
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, Hugo Blox Builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+Confirm and add all of the following:
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+- Job-market cycle (for example, `2026–27`) and the exact wording approved by UCL.
+- Current CV as `static/files/yuanqi-zhang-cv.pdf`.
+- Designated Job Market Paper, **Adaptive Experiment for Partially Identified Policy Choice**, as `static/files/yuanqi-zhang-jmp.pdf`.
+- Confirmed JMP coauthors (if any), status, a 100–150 word general-audience abstract, and links to appendix, slides, code, and data where available.
+- A professional headshot with permission to publish. Aim for a portrait crop at least 1200 px high.
+- Teaching experience and links to a teaching statement or evaluations, if they are part of the application package.
+- References, only after confirming the preferred names, affiliations, and whether email addresses should appear publicly.
+- Google Scholar, ORCID, GitHub, or other profile links that should be shown.
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://hugoblox.com/creators/).
+The current draft marks unfinished materials as forthcoming, omits unconfirmed market-cycle claims, and removes the old demo CV. The bilingual CV supplied for design reference remains outside this repository and is not copied into the public site.
 
-The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+## Content map
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 💡 [Suggest an improvement](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+- `content/_index.md`: homepage copy and research papers.
+- `content/authors/admin/_index.md`: name, affiliation, research interests, and profile links.
+- `config/_default/menus.yaml`: top navigation.
+- `config/_default/params.yaml`: SEO, header, footer, and repository settings.
+- `assets/scss/custom.scss`: visual design and responsive styles.
+- `static/files/`: final public PDFs.
 
-## We ask you, humbly, to support this open source movement
+## Local preview
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+The deployment workflow currently pins Hugo Extended `0.124.1`. With Hugo Extended and Go installed:
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+```sh
+hugo server
+```
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+Open the local address printed by Hugo. Use `hugo --minify` for a production build.
 
-<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
+## Publishing
 
-## Demo image credits
-
-- [Unsplash](https://unsplash.com)
-
-## Latest news
-
-<!--START_SECTION:news-->
-
-- [Easily make an academic CV website to get more cites and grow your audience 🚀](https://hugoblox.com/blog/easily-make-academic-website/)
-- [What&#39;s new in v5.2?](https://hugoblox.com/blog/whats-new-in-v5.2/)
-- [What&#39;s new in v5.1?](https://hugoblox.com/blog/whats-new-in-v5.1/)
-- [Version 5.0 (February 2021)](https://hugoblox.com/blog/version-5.0-february-2021/)
-- [Version 5.0 Beta 3 (February 2021)](https://hugoblox.com/blog/version-5.0-beta-3-february-2021/)
-<!--END_SECTION:news-->
+Work on a feature branch and open a pull request. Merging to `main` triggers `.github/workflows/publish.yaml`, which rebuilds and deploys the site to GitHub Pages. The custom domain and HTTPS are already configured in the repository settings.

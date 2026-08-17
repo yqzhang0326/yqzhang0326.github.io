@@ -1,0 +1,7 @@
+# Sans-serif typography inspired by the Academimal research-site theme.
+name = "Academimal"
+google_fonts = "family=Noto+Sans:ital,wght@0,400;0,600;0,700;1,400"
+heading_font = "Noto Sans"
+body_font = "Noto Sans"
+nav_font = "Noto Sans"
+mono_font = "ui-monospace"

@@ -1,0 +1,25 @@
+name = "Academimal"
+
+[light]
+  primary = "#1f6f9f"
+  link = "#1f6f9f"
+  link_hover = "#064f7e"
+  link_decoration = "none"
+  menu_primary = "#ffffff"
+  menu_text = "#5f5f5f"
+  menu_text_active = "#1f6f9f"
+  menu_title = "#222222"
+  home_section_odd = "#ffffff"
+  home_section_even = "#ffffff"
+
+[dark]
+  primary = "#6bb6e8"
+  link = "#6bb6e8"
+  link_hover = "#9bd0f2"
+  link_decoration = "none"
+  menu_primary = "#ffffff"
+  menu_text = "#5f5f5f"
+  menu_text_active = "#1f6f9f"
+  menu_title = "#222222"
+  home_section_odd = "#ffffff"
+  home_section_even = "#ffffff"
