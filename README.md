@@ -10,7 +10,7 @@ Confirm and add all of the following:
 
 - Job-market cycle (for example, `2026–27`) and the exact wording approved by UCL.
 - Current CV as `static/files/yuanqi-zhang-cv.pdf`.
-- Designated Job Market Paper, **Adaptive Experiment for Partially Identified Policy Choice**, as `static/files/yuanqi-zhang-jmp.pdf`.
+- Designated Job Market Paper, **Designing Experiments for Policies Beyond the Experiment**, as `static/files/yuanqi-zhang-jmp.pdf`.
 - Confirmed JMP coauthors (if any), status, a 100–150 word general-audience abstract, and links to appendix, slides, code, and data where available.
 - A professional headshot with permission to publish. Aim for a portrait crop at least 1200 px high.
 - Teaching experience and links to a teaching statement or evaluations, if they are part of the application package.

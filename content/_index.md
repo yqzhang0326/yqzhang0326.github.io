@@ -20,6 +20,7 @@ sections:
               <a href="#bio">Bio</a>
               <a href="#job-market-paper">Job Market Paper</a>
               <a href="#research">Working Papers</a>
+              <a href="#work-in-progress">Work in Progress</a>
               <a href="#teaching">Teaching</a>
               <a href="#contact">Contact</a>
             </nav>
@@ -28,8 +29,9 @@ sections:
             <section class="academic-section" id="bio">
               <h2>Bio</h2>
               <p>I am a PhD candidate in Economics at University College London and a PhD Scholar at the Centre for Microdata Methods and Practice (CeMMAP). I expect to graduate in 2027.</p>
-              <p>My research lies at the intersection of econometrics and statistical decision-making. I am interested in adaptive experimental design, causal inference, robust policy choice, partial identification, panel data, and social networks.</p>
+              <p>My research focuses on econometrics, particularly partial identification and statistical decision theory, with applications to experimental design, panel data models, and nonparametric instrumental variables.</p>
               <p class="academic-material-line">
+                <a href="https://scholar.google.com/citations?hl=en&amp;user=4dg7nhIAAAAJ" target="_blank" rel="noopener"><strong>Google Scholar Profile</strong></a><br>
                 <a href="https://cemmap.ac.uk/person/yuanqi-zhang/" target="_blank" rel="noopener"><strong>CeMMAP Profile</strong></a>
               </p>
             </section>
@@ -37,7 +39,7 @@ sections:
             <section class="academic-section" id="job-market-paper">
               <h2>Job Market Paper</h2>
               <article class="academic-paper academic-paper--jmp">
-                <h3>Adaptive Experiment for Partially Identified Policy Choice</h3>
+                <h3>Designing Experiments for Policies Beyond the Experiment</h3>
                 <p class="academic-paper-status"><em>Draft forthcoming</em></p>
               </article>
             </section>
@@ -52,8 +54,12 @@ sections:
               <article class="academic-paper">
                 <h3><a href="https://arxiv.org/pdf/2401.06611">Robust Analysis of Short Panels</a></h3>
                 <p class="academic-coauthors">with Andrew Chesher and Adam M. Rosen.</p>
-                <p class="academic-paper-status"><em>Revised January 2024. Partially subsumed by <a href="https://arxiv.org/pdf/2607.10043">The Projection Solution to the Incidental Parameter Problem</a>.</em></p>
+                <p class="academic-paper-status"><em>Revised January 2024, also CeMMAP working paper 01/24. October 2023 version available as <a href="https://www.cemmap.ac.uk/wp-content/uploads/2023/10/CWP2023-Identification-analysis-in-models-with-unrestricted-latent-variables-fixed-effects-and-initial-conditions.pdf">CeMMAP working paper CWP20/23</a>. Currently resting working paper, partially subsumed by <a href="https://arxiv.org/pdf/2607.10043">The Projection Solution to the Incidental Parameter Problem</a>.</em></p>
               </article>
+            </section>
+            <hr>
+            <section class="academic-section" id="work-in-progress">
+              <h2>Work in Progress</h2>
             </section>
             <hr>
             <section class="academic-section" id="teaching">
