@@ -29,7 +29,7 @@ sections:
             <section class="academic-section" id="bio">
               <h2>Bio</h2>
               <p>I am a PhD candidate in Economics at University College London and a PhD Scholar at the Centre for Microdata Methods and Practice (CeMMAP). I expect to graduate in 2027.</p>
-              <p>My research focuses on econometrics, particularly partial identification and statistical decision theory, with applications to experimental design, panel data models, and nonparametric instrumental variables.</p>
+              <p>My research focuses on econometrics, particularly partial identification and statistical decision theory, with applications to experimental design, panel data models, social networks, and nonparametric instrumental variables.</p>
               <p class="academic-material-line">
                 <a href="https://scholar.google.com/citations?hl=en&amp;user=4dg7nhIAAAAJ" target="_blank" rel="noopener"><strong>Google Scholar Profile</strong></a><br>
                 <a href="https://cemmap.ac.uk/person/yuanqi-zhang/" target="_blank" rel="noopener"><strong>CeMMAP Profile</strong></a>
@@ -60,6 +60,13 @@ sections:
             <hr>
             <section class="academic-section" id="work-in-progress">
               <h2>Work in Progress</h2>
+              <article class="academic-paper">
+                <h3>An Instrumental Variable Approach to Binary Choice Games in Social Networks</h3>
+              </article>
+              <article class="academic-paper">
+                <h3>Empirical Sensitivity Analysis and Robust Estimation in NPIV</h3>
+                <p class="academic-coauthors">with Ben Deaner.</p>
+              </article>
             </section>
             <hr>
             <section class="academic-section" id="teaching">
