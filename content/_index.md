@@ -48,12 +48,12 @@ sections:
               <h2>Working Papers</h2>
               <article class="academic-paper">
                 <h3><a href="https://arxiv.org/pdf/2607.10043">The Projection Solution to the Incidental Parameter Problem</a></h3>
-                <p class="academic-coauthors">with Andrew Chesher and Adam M. Rosen.</p>
+                <p class="academic-coauthors">with <a href="https://profiles.ucl.ac.uk/5419-andrew-chesher" target="_blank" rel="noopener">Andrew Chesher</a> and <a href="https://sites.google.com/site/amr331/" target="_blank" rel="noopener">Adam M. Rosen</a>.</p>
                 <p class="academic-paper-status"><em>July 2026.</em></p>
               </article>
               <article class="academic-paper">
                 <h3><a href="https://arxiv.org/pdf/2401.06611">Robust Analysis of Short Panels</a></h3>
-                <p class="academic-coauthors">with Andrew Chesher and Adam M. Rosen.</p>
+                <p class="academic-coauthors">with <a href="https://profiles.ucl.ac.uk/5419-andrew-chesher" target="_blank" rel="noopener">Andrew Chesher</a> and <a href="https://sites.google.com/site/amr331/" target="_blank" rel="noopener">Adam M. Rosen</a>.</p>
                 <p class="academic-paper-status"><em>Revised January 2024, also CeMMAP working paper 01/24. October 2023 version available as <a href="https://www.cemmap.ac.uk/wp-content/uploads/2023/10/CWP2023-Identification-analysis-in-models-with-unrestricted-latent-variables-fixed-effects-and-initial-conditions.pdf">CeMMAP working paper CWP20/23</a>. Currently resting working paper, partially subsumed by <a href="https://arxiv.org/pdf/2607.10043">The Projection Solution to the Incidental Parameter Problem</a>.</em></p>
               </article>
             </section>
@@ -65,7 +65,7 @@ sections:
               </article>
               <article class="academic-paper">
                 <h3>Empirical Sensitivity Analysis and Robust Estimation in NPIV</h3>
-                <p class="academic-coauthors">with Ben Deaner.</p>
+                <p class="academic-coauthors">with <a href="https://bendeaner.wordpress.com/" target="_blank" rel="noopener">Ben Deaner</a>.</p>
               </article>
             </section>
             <hr>

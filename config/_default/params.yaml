@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: academimal
-  theme_night: academimal
+  theme_night: ''
   font: academimal
   font_size: M
 
