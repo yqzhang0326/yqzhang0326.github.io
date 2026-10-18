@@ -13,6 +13,7 @@ sections:
         <a class="academic-skip-link" href="#main-content">Skip to content</a>
         <div class="academic-shell">
           <aside class="academic-sidebar" aria-label="Profile and site navigation">
+            <img class="academic-headshot" src="/images/yuanqi-zhang.jpg" alt="Portrait of Yuanqi Zhang" width="1024" height="1536">
             <h1>Yuanqi Zhang</h1>
             <p class="academic-role">PhD Candidate in Economics<br>University College London<br>Expected 2027</p>
             <hr>
@@ -31,6 +32,7 @@ sections:
               <p>I am a PhD candidate in Economics at University College London and a PhD Scholar at the Centre for Microdata Methods and Practice (CeMMAP). I expect to graduate in 2027.</p>
               <p>My research focuses on econometrics, particularly partial identification and statistical decision theory, with applications to experimental design, panel data models, social networks, and nonparametric instrumental variables.</p>
               <p class="academic-material-line">
+                <a href="/files/yuanqi-zhang-cv.pdf" target="_blank" rel="noopener"><strong>Curriculum Vitae</strong></a><br>
                 <a href="https://scholar.google.com/citations?hl=en&amp;user=4dg7nhIAAAAJ" target="_blank" rel="noopener"><strong>Google Scholar Profile</strong></a><br>
                 <a href="https://cemmap.ac.uk/person/yuanqi-zhang/" target="_blank" rel="noopener"><strong>CeMMAP Profile</strong></a>
               </p>
@@ -64,8 +66,12 @@ sections:
                 <h3>An Instrumental Variable Approach to Binary Choice Games in Social Networks</h3>
               </article>
               <article class="academic-paper">
-                <h3>Empirical Sensitivity Analysis and Robust Estimation in NPIV</h3>
+                <h3>Sensitivity Analysis and Robust Estimation in Additive IV</h3>
                 <p class="academic-coauthors">with <a href="https://bendeaner.wordpress.com/" target="_blank" rel="noopener">Ben Deaner</a>.</p>
+              </article>
+              <article class="academic-paper">
+                <h3>Latent Index Dynamics in Short Discrete Outcome Panels</h3>
+                <p class="academic-coauthors">with <a href="https://profiles.ucl.ac.uk/5419-andrew-chesher" target="_blank" rel="noopener">Andrew Chesher</a> and <a href="https://sites.google.com/site/amr331/" target="_blank" rel="noopener">Adam M. Rosen</a>.</p>
               </article>
             </section>
             <hr>

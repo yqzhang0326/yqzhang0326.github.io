@@ -9,15 +9,15 @@ The job-market draft uses a compact two-column academic layout inspired by [Gaut
 Confirm and add all of the following:
 
 - Job-market cycle (for example, `2026–27`) and the exact wording approved by UCL.
-- Current CV as `static/files/yuanqi-zhang-cv.pdf`.
+- Keep the public CV current at `static/files/yuanqi-zhang-cv.pdf`; replacing that file updates the existing homepage link.
 - Designated Job Market Paper, **Designing Experiments for Policies Beyond the Experiment**, as `static/files/yuanqi-zhang-jmp.pdf`.
 - Confirmed JMP coauthors (if any), status, a 100–150 word general-audience abstract, and links to appendix, slides, code, and data where available.
-- A professional headshot with permission to publish. Aim for a portrait crop at least 1200 px high.
+- Keep the public headshot current at `static/images/yuanqi-zhang.jpg`.
 - Teaching experience and links to a teaching statement or evaluations, if they are part of the application package.
 - References, only after confirming the preferred names, affiliations, and whether email addresses should appear publicly.
 - Google Scholar, ORCID, GitHub, or other profile links that should be shown.
 
-The current draft marks unfinished materials as forthcoming, omits unconfirmed market-cycle claims, and removes the old demo CV. The bilingual CV supplied for design reference remains outside this repository and is not copied into the public site.
+The current draft marks unfinished materials as forthcoming and omits unconfirmed market-cycle claims. The public academic CV is served from `static/files/yuanqi-zhang-cv.pdf`.
 
 ## Content map
 
@@ -27,6 +27,7 @@ The current draft marks unfinished materials as forthcoming, omits unconfirmed m
 - `config/_default/params.yaml`: SEO, header, footer, and repository settings.
 - `assets/scss/custom.scss`: visual design and responsive styles.
 - `static/files/`: final public PDFs.
+- `static/images/`: public profile imagery.
 
 ## Local preview
 

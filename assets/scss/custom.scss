@@ -99,6 +99,16 @@ a:focus-visible {
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
+.academic-headshot {
+  display: block;
+  width: 210px;
+  height: 263px;
+  margin: 0 0 24px;
+  border-radius: 2px;
+  object-fit: cover;
+  object-position: center;
+}
+
 .academic-sidebar h1 {
   margin: 0 0 20px;
   color: var(--academic-ink);
@@ -229,6 +239,11 @@ a:focus-visible {
     position: static;
   }
 
+  .academic-headshot {
+    width: 180px;
+    height: 225px;
+  }
+
   .academic-nav {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -255,6 +270,12 @@ a:focus-visible {
 
   .academic-nav {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .academic-headshot {
+    width: 145px;
+    height: 181px;
+    margin-bottom: 20px;
   }
 
 }
