@@ -54,6 +54,11 @@ sections:
                 <p class="academic-paper-status"><em>July 2026.</em></p>
               </article>
               <article class="academic-paper">
+                <h3><a href="/files/sensitivity-analysis-robust-estimation-additive-iv.pdf">Sensitivity Analysis and Robust Estimation in Additive IV</a></h3>
+                <p class="academic-coauthors">with <a href="https://bendeaner.wordpress.com/" target="_blank" rel="noopener">Ben Deaner</a>.</p>
+                <p class="academic-paper-status"><em>October 2026.</em></p>
+              </article>
+              <article class="academic-paper">
                 <h3><a href="https://arxiv.org/pdf/2401.06611">Robust Analysis of Short Panels</a></h3>
                 <p class="academic-coauthors">with <a href="https://profiles.ucl.ac.uk/5419-andrew-chesher" target="_blank" rel="noopener">Andrew Chesher</a> and <a href="https://sites.google.com/site/amr331/" target="_blank" rel="noopener">Adam M. Rosen</a>.</p>
                 <p class="academic-paper-status"><em>Revised January 2024, also CeMMAP working paper 01/24. October 2023 version available as <a href="https://www.cemmap.ac.uk/wp-content/uploads/2023/10/CWP2023-Identification-analysis-in-models-with-unrestricted-latent-variables-fixed-effects-and-initial-conditions.pdf">CeMMAP working paper CWP20/23</a>. Currently resting working paper, partially subsumed by <a href="https://arxiv.org/pdf/2607.10043">The Projection Solution to the Incidental Parameter Problem</a>.</em></p>
@@ -64,10 +69,6 @@ sections:
               <h2>Work in Progress</h2>
               <article class="academic-paper">
                 <h3>An Instrumental Variable Approach to Binary Choice Games in Social Networks</h3>
-              </article>
-              <article class="academic-paper">
-                <h3>Sensitivity Analysis and Robust Estimation in Additive IV</h3>
-                <p class="academic-coauthors">with <a href="https://bendeaner.wordpress.com/" target="_blank" rel="noopener">Ben Deaner</a>.</p>
               </article>
               <article class="academic-paper">
                 <h3>Latent Index Dynamics in Short Discrete Outcome Panels</h3>
