@@ -80,6 +80,7 @@ sections:
               <h2>Teaching</h2>
               <p><strong>ECON0108 Econometrics</strong><br>PhD Course · University College London · 2024–2026</p>
               <p><strong>ECON0005 Statistical Methods in Economics</strong><br>Undergraduate Course · University College London · 2022–2024</p>
+              <p><strong>ECON0123 Network Science for Economists</strong><br>University College London · 2022–2024</p>
             </section>
             <hr>
             <section class="academic-section" id="contact">
