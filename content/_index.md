@@ -41,8 +41,7 @@ sections:
             <section class="academic-section" id="job-market-paper">
               <h2>Job Market Paper</h2>
               <article class="academic-paper academic-paper--jmp">
-                <h3>Designing Experiments for Policies Beyond the Experiment</h3>
-                <p class="academic-paper-status"><em>Draft forthcoming</em></p>
+                <h3><a href="/files/yuanqi-zhang-jmp.pdf">Designing Experiments for Policies Beyond the Experiment</a></h3>
               </article>
             </section>
             <hr>
