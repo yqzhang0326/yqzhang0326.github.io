@@ -41,7 +41,7 @@ sections:
             <section class="academic-section" id="job-market-paper">
               <h2>Job Market Paper</h2>
               <article class="academic-paper academic-paper--jmp">
-                <h3><a href="/files/yuanqi-zhang-jmp.pdf">Designing Experiments for Policies Beyond the Experiment</a></h3>
+                <h3><a href="https://www.dropbox.com/scl/fi/7p5h86s1fg7bdjbbf85o0/JMP-1.pdf?rlkey=7ec5ihjffqkvqibq4yj2vdaba&amp;raw=1">Designing Experiments for Policies Beyond the Experiment</a></h3>
               </article>
             </section>
             <hr>
@@ -53,7 +53,7 @@ sections:
                 <p class="academic-paper-status"><em>July 2026.</em></p>
               </article>
               <article class="academic-paper">
-                <h3><a href="/files/sensitivity-analysis-robust-estimation-additive-iv.pdf">Sensitivity Analysis and Robust Estimation in Additive IV</a></h3>
+                <h3><a href="https://www.dropbox.com/scl/fi/pcfhwyctmbuu55samfnm5/robust_npiv.pdf?rlkey=7tb53okrr6gycxys2jykcnn75&amp;raw=1">Sensitivity Analysis and Robust Estimation in Additive IV</a></h3>
                 <p class="academic-coauthors">with <a href="https://bendeaner.wordpress.com/" target="_blank" rel="noopener">Ben Deaner</a>.</p>
                 <p class="academic-paper-status"><em>October 2026.</em></p>
               </article>
@@ -67,7 +67,7 @@ sections:
             <section class="academic-section" id="work-in-progress">
               <h2>Work in Progress</h2>
               <article class="academic-paper">
-                <h3>An Instrumental Variable Approach to Binary Choice Games in Social Networks</h3>
+                <h3><a href="https://www.dropbox.com/scl/fi/e05ql69nqsncs5pf7xml0/givsubnetwork.pdf?rlkey=j5zn030gi93xc7vsc20epp4ju&amp;raw=1">An Instrumental Variable Approach to Binary Choice Games in Social Networks</a></h3>
               </article>
               <article class="academic-paper">
                 <h3>Latent Index Dynamics in Short Discrete Outcome Panels</h3>
