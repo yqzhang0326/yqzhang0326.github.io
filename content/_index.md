@@ -74,6 +74,10 @@ sections:
                 <h3>Latent Index Dynamics in Short Discrete Outcome Panels</h3>
                 <p class="academic-coauthors">with <a href="https://profiles.ucl.ac.uk/5419-andrew-chesher" target="_blank" rel="noopener">Andrew Chesher</a> and <a href="https://sites.google.com/site/amr331/" target="_blank" rel="noopener">Adam M. Rosen</a>.</p>
               </article>
+              <article class="academic-paper">
+                <h3>An Econometric Analysis of Non-Bayesian Social Learning</h3>
+                <p class="academic-coauthors">with <a href="https://sites.google.com/view/shuyangsheng" target="_blank" rel="noopener">Shuyang Sheng</a>, Guangyi Wang, and <a href="https://www.weisheng-zhang.com/home" target="_blank" rel="noopener">Weisheng Zhang</a>.</p>
+              </article>
             </section>
             <hr>
             <section class="academic-section" id="teaching">
