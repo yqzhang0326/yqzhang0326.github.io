@@ -50,12 +50,13 @@ sections:
               <article class="academic-paper">
                 <h3><a href="https://arxiv.org/pdf/2607.10043">The Projection Solution to the Incidental Parameter Problem</a></h3>
                 <p class="academic-coauthors">with <a href="https://profiles.ucl.ac.uk/5419-andrew-chesher" target="_blank" rel="noopener">Andrew Chesher</a> and <a href="https://sites.google.com/site/amr331/" target="_blank" rel="noopener">Adam M. Rosen</a>.</p>
-                <p class="academic-paper-status"><em>July 2026.</em></p>
               </article>
               <article class="academic-paper">
                 <h3><a href="https://www.dropbox.com/scl/fi/pcfhwyctmbuu55samfnm5/robust_npiv.pdf?rlkey=7tb53okrr6gycxys2jykcnn75&amp;raw=1">Sensitivity Analysis and Robust Estimation in Additive IV</a></h3>
                 <p class="academic-coauthors">with <a href="https://bendeaner.wordpress.com/" target="_blank" rel="noopener">Ben Deaner</a>.</p>
-                <p class="academic-paper-status"><em>October 2026.</em></p>
+              </article>
+              <article class="academic-paper">
+                <h3><a href="https://www.dropbox.com/scl/fi/e05ql69nqsncs5pf7xml0/givsubnetwork.pdf?rlkey=j5zn030gi93xc7vsc20epp4ju&amp;raw=1">An Instrumental Variable Approach to Binary Choice Games in Social Networks</a></h3>
               </article>
               <article class="academic-paper">
                 <h3><a href="https://arxiv.org/pdf/2401.06611">Robust Analysis of Short Panels</a></h3>
@@ -66,9 +67,6 @@ sections:
             <hr>
             <section class="academic-section" id="work-in-progress">
               <h2>Work in Progress</h2>
-              <article class="academic-paper">
-                <h3><a href="https://www.dropbox.com/scl/fi/e05ql69nqsncs5pf7xml0/givsubnetwork.pdf?rlkey=j5zn030gi93xc7vsc20epp4ju&amp;raw=1">An Instrumental Variable Approach to Binary Choice Games in Social Networks</a></h3>
-              </article>
               <article class="academic-paper">
                 <h3>Latent Index Dynamics in Short Discrete Outcome Panels</h3>
                 <p class="academic-coauthors">with <a href="https://profiles.ucl.ac.uk/5419-andrew-chesher" target="_blank" rel="noopener">Andrew Chesher</a> and <a href="https://sites.google.com/site/amr331/" target="_blank" rel="noopener">Adam M. Rosen</a>.</p>
